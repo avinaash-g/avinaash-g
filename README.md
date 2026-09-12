@@ -89,16 +89,16 @@ and solving problems one commit at a time.
 ## 🧠 Currently Exploring
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  🤖  Large Language Models                   │
-│  🔎  Retrieval-Augmented Generation          │
-│  🧩  AI Agents & Tool Calling                │
-│  ⚡  TypeScript                               │
-│  🏗️  Backend & System Design                │
-│  💻  Data Structures & Algorithms            │
-│                                              │
-└──────────────────────────────────────────────┘
+┌────────────────────────────────────────────┐
+│                                            │
+│  🤖  Large Language Models                 │
+│  🔎  Retrieval-Augmented Generation        │
+│  🧩  AI Agents & Tool Calling              │
+│  ⚡  TypeScript                            │
+│  🏗️  Backend & System Design               │
+│  💻  Data Structures & Algorithms          │
+│                                            │
+└────────────────────────────────────────────┘
 ```
 
 ---
@@ -107,11 +107,9 @@ and solving problems one commit at a time.
 
 <div align="center">
 
-<a href="https://github.com/avinaash-g">
-<img src="https://img.shields.io/badge/RAGForge-AI%20%7C%20RAG%20%7C%20LLMs-6A5ACD?style=for-the-badge" />
-</a>
 
-<a href="https://github.com/avinaash-g">
+
+<a href="[https://github.com/avinaash-g](https://github.com/avinaash-g/VortexAI)">
 <img src="https://img.shields.io/badge/Vortex%20AI-GenAI%20%7C%20SaaS-4285F4?style=for-the-badge" />
 </a>
 
