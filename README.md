@@ -1,7 +1,7 @@
 <div align="center">
 
 # Avinaash G
-**Software Engineer · Full-Stack & Intelligent Systems**
+**Aspiring Software Engineer · Full-Stack & Intelligent Systems**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=550&lines=Building+scalable+full-stack+web+applications;Designing+intelligent+AI+agent+workflows;Exploring+RAG%2C+backends%2C+and+system+design)](https://git.io/typing-svg)
 
