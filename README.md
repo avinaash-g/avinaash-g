@@ -59,7 +59,7 @@ A platform designed for experimenting with and benchmarking **Retrieval-Augmente
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Vortex AI
+### ⚡ OrvynAI
 *Intelligent Full-Stack SaaS Platform*
 
 A multi-tool SaaS platform integrating intelligent LLM agent workflows, automated context extraction, and high-performance API endpoints.
